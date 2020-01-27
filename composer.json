@@ -1,0 +1,6 @@
+{
+    "name": "filtration/cve",
+    "description": "Does nothing, but debug",
+    "version": "0.1.0",
+    "type": "library",
+}
